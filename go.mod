@@ -1,6 +1,6 @@
 module github.com/athena196/examplebank
 
-go 1.24
+go 1.23
 
 require github.com/lib/pq v1.10.9
 
